@@ -34,7 +34,7 @@ Desde tu aplicación en Laravel, deberás ejecutar las siguientes instrucciones:
 **Dominio**: https://rdp2.citolab.cl  
 **version**: vLatest  
 **database-name**: DEV  
-**layout-name**: mensaje   
+**layout-name**: contacto   
 **record-id**: 1  
 
 **NOTA: Recuerda utilizar el session-token que obtuviste al hacer el login en la base de datos (en paso 2), lo debes utilizar en la cabecera de la solicitud para autenticarte correctamente.**
