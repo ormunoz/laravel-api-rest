@@ -47,7 +47,7 @@ Desde tu aplicación en Laravel, deberás ejecutar las siguientes instrucciones:
 
 [https://laravel.com/docs/10.x](https://laravel.com/docs/10.x)
 
-[https://help.claris.com/en/data-api-guide/content/connect-disconnect-database.html](https://help.claris.com/en/data-api-guide/content/connect-disconnect-database.html)
+[https://help.claris.com/en/data-api-guide/content/log-in-database-session.html](https://help.claris.com/en/data-api-guide/content/log-in-database-session.html)
 
 [https://help.claris.com/en/data-api-guide/content/get-single-record.html](https://help.claris.com/en/data-api-guide/content/get-single-record.html)
 
